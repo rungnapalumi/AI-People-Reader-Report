@@ -1,0 +1,23 @@
+streamlit
+opencv-python-headless
+mediapipe==0.10.9
+numpy
+pillow
+boto3
+python-dotenv
+
+# สำหรับ worker (video processing)
+python-docx
+moviepy
+pytz
+
+
+
+
+
+
+
+
+
+
+
